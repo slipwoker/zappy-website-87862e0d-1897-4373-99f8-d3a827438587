@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+א.ב דפוס - חנות דפוס אונליין מובילה בישראל. הזמינו כרטיסי ביקור, חוברות ומוצרי הדפסה באיכות פרימיום עם מערכת הזמנות פשוטה ונגישה לכולם.
+
+### אודות ונגישות
+https://example.com/about-accessibility
+גלו את הסיפור שלנו והמחויבות לנגישות דיגיטלית מלאה. א.ב דפוס מאמינה שכל אדם ראוי לחוויית הזמנה קלה ונוחה, עם תמיכה מלאה בעברית ותכונות נגישות מתקדמות.
+
+### שאלות נפוצות
+https://example.com/faq
+מצאו תשובות מהירות לשאלות הנפוצות על שירותי ההדפסה שלנו: זמני אספקה, איכות הדפסה, אפשרויות תשלום ועוד. הכל במקום אחד נוח ונגיש.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה או בקשה מיוחדת? צוות א.ב דפוס כאן בשבילכם! צרו קשר דרך הטופס הנגיש שלנו ונחזור אליכם במהירות עם פתרונות הדפסה מותאמים אישית.
+
+### Products
+https://example.com/products
+המוצרים שלנו - א.ב דפוס
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - א.ב דפוס
+
+### Category
+https://example.com/category/:slug
+מוצרים - א.ב דפוס
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
